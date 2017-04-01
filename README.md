@@ -8,5 +8,6 @@ This is a MineCraft themed sort of pixel game, it is going to be a battle betwee
 </p>
 
 <h3>ScreenShots</h3> 
-<img src= "https://github.com/vbrown7313/ZombieVsCrafterRun/blob/master/Game%20Picture%201.png" width="200px">
+<img src= "https://github.com/vbrown7313/ZombieVsCrafterRun/blob/master/ZOMBIE%20VS%20CRAFTER%20RUN%20START.png" width="200px">
 <img src= "https://github.com/vbrown7313/ZombieVsCrafterRun/blob/master/Game%20Picture%202.png" width="200px">
+<img src= "https://github.com/vbrown7313/ZombieVsCrafterRun/blob/master/Game%20Picture%201.png" with="200px">
