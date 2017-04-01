@@ -16,4 +16,4 @@ This is a MineCraft themed sort of pixel game, it is going to be a battle betwee
 <h3>Resources</h3>
 <a href="http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame"> PyGame Wheel File, </a> 
 <a href="https://youtu.be/_GikMdhAhv0"> How To Install Python 3.6 and PyGame, </a>
-<a hfer="https://www.python.org/downloads/"> Python Download </a>  
+<a hfer="https://www.python.org/downloads/"> Python Download </a> <br>
